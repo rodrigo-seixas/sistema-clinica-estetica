@@ -31,7 +31,12 @@ Este será um sistema completo e inteligente, que utilizará **Inteligência Art
 ---
 
 ## 📂 Estrutura inicial (em construção)
-
+clinica-estetica/
+├── site/
+├── app/
+├── backoffice/
+├── docs/
+└── README.md
 
 ---
 
