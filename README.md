@@ -31,3 +31,38 @@ Este será um sistema completo e inteligente, que utilizará **Inteligência Art
 ---
 
 ## 📂 Estrutura inicial (em construção)
+
+
+---
+
+## 🧩 Tecnologias previstas
+
+| Camada            | Tecnologias sugeridas                     |
+|-------------------|-------------------------------------------|
+| Frontend Web      | React.js, TailwindCSS                     |
+| Mobile App        | React Native / Flutter                    |
+| Backend           | Node.js, Python (FastAPI), PostgreSQL     |
+| IA & Chatbot      | OpenAI, Langchain, Whisper                |
+| DevOps / Deploy   | GitHub Actions, Docker, Vercel/Render     |
+
+---
+
+## 📌 Objetivo pessoal
+
+Este é um projeto **pessoal e educativo**, com o objetivo de desenvolver minhas habilidades como Product Manager e aprofundar meus conhecimentos em tecnologia, UX e IA aplicada a negócios reais.
+
+---
+
+## 🤝 Contribuições
+
+Neste momento, este projeto está em desenvolvimento individual, mas estou aberto a parcerias futuras. Se você se interessou, fique à vontade para entrar em contato!
+
+---
+
+## 📬 Contato
+
+**Rodrigo Seixas**  
+[LinkedIn](https://www.linkedin.com/in/rodrigo-seixas)  
+[GitHub](https://github.com/rodrigo-seixas)
+
+---
